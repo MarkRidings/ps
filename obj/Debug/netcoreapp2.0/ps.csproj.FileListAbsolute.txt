@@ -1,0 +1,11 @@
+C:\users\mridings\work\practice\redis\ps\bin\Debug\netcoreapp2.0\ps.deps.json
+C:\users\mridings\work\practice\redis\ps\bin\Debug\netcoreapp2.0\ps.runtimeconfig.json
+C:\users\mridings\work\practice\redis\ps\bin\Debug\netcoreapp2.0\ps.runtimeconfig.dev.json
+C:\users\mridings\work\practice\redis\ps\bin\Debug\netcoreapp2.0\ps.dll
+C:\users\mridings\work\practice\redis\ps\bin\Debug\netcoreapp2.0\ps.pdb
+C:\users\mridings\work\practice\redis\ps\obj\Debug\netcoreapp2.0\ps.csprojAssemblyReference.cache
+C:\users\mridings\work\practice\redis\ps\obj\Debug\netcoreapp2.0\ps.csproj.CoreCompileInputs.cache
+C:\users\mridings\work\practice\redis\ps\obj\Debug\netcoreapp2.0\ps.AssemblyInfoInputs.cache
+C:\users\mridings\work\practice\redis\ps\obj\Debug\netcoreapp2.0\ps.AssemblyInfo.cs
+C:\users\mridings\work\practice\redis\ps\obj\Debug\netcoreapp2.0\ps.dll
+C:\users\mridings\work\practice\redis\ps\obj\Debug\netcoreapp2.0\ps.pdb
